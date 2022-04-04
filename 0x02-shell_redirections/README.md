@@ -1,1 +1,1 @@
-display input hello word
+display input Hello world
