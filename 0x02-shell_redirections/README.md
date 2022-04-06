@@ -8,3 +8,4 @@ lastline
 last
 first files
 script writing
+current state of directory
