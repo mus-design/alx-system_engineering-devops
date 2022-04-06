@@ -13,3 +13,4 @@ types of people in the world
 print
 print2
 print2
+decimal
