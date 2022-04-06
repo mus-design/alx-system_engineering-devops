@@ -6,3 +6,4 @@ local variables
 Read aloud
 readme
 read me
+indeed True knowledge
