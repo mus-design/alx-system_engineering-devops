@@ -4,3 +4,4 @@ The last directoty
 read my file
 local variables
 Read aloud
+readme
