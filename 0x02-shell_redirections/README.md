@@ -4,3 +4,5 @@ smiley
 file
 smiley
 About
+lastline
+last
