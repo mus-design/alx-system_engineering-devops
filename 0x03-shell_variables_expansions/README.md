@@ -10,3 +10,4 @@ indeed True knowledge
 power
 love
 types of people in the world
+print
