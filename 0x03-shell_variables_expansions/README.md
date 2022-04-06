@@ -7,3 +7,4 @@ Read aloud
 readme
 read me
 indeed True knowledge
+power
